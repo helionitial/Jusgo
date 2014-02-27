@@ -4,7 +4,7 @@ body {
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 	color: #888;
 	font-size: 12px;
-	background-color: #F5F5F5;
+	background-color: #ffffff;
 }
 
 .violet { color: #F04F23; }
@@ -40,7 +40,7 @@ strong { font-weight: bold; }
 	top: 0px;
 	padding-bottom: 240px;
 	background-repeat: no-repeat;
-	background-color: #F5F5F5;
+	background-color: #ffffff;
 	background-image: url(../img/tfile_img4.jpg);
 	width: 940px;
 }
@@ -414,10 +414,8 @@ strong { font-weight: bold; }
 footer {
     margin: 0 auto;
     padding-bottom: 10px;
-    background: #f8f8f8 url(../img/pattern.jpg) left top repeat;
-    -moz-box-shadow: 0 5px 15px 0 rgba(0,0,0,.05) inset;
-    -webkit-box-shadow: 0 5px 15px 0 rgba(0,0,0,.05) inset;
-    box-shadow: 0 5px 15px 0 rgba(0,0,0,.05) inset;
+    background: #ffffff;
+
 }
 
 footer .widget {
