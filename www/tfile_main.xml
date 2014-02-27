@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<content>
+	<!-- general vars -->
+	<section name="settings">
+		<item name="textSelectable">true</item>
+	</section>
+<section name="pages">
+	
+<page name="gallery">
+
+<gall name="globalGallery">
+		<folder fName="1" fTitle="">
+			<image imageUrl="_img1.jpg" size="940" size_width="300"/>
+			<image imageUrl="_img2.jpg" size="940" size_width="300"/>
+			<image imageUrl="_img3.jpg" size="940" size_width="300"/>
+			<image imageUrl="_img4.jpg" size="940" size_width="300"/>
+			<image imageUrl="_img5.jpg" size="940" size_width="300"/>	
+					
+		</folder>
+</gall>
+		</page>
+			
+</section>
+
+	
+</content>
