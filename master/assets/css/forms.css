@@ -10,7 +10,7 @@ input[type="text"],input[type=password],textarea{font-family:Arial, Helvetica, s
 	#contact-form fieldset{border:none;padding:0}
 		#contact-form label{padding-bottom:13px;overflow:hidden;display:block;position:relative;}
 			#contact-form .message{padding-bottom:26px;}
-			#contact-form textarea{width:327px;height:211px;overflow:auto;resize:vertical}
+			#contact-form textarea{width:470px;height:211px;overflow:auto;resize:vertical}
 			#contact-form .error,#contact-form .empty{color:#f00;display:none;position:absolute;left:0;font-size:10px;line-height:1.2em;}
 		#contact-form .btns{text-align:right; margin-right:27px;}
 		#contact-form .btns a{margin-left:15px;}
